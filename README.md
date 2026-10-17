@@ -1,5 +1,4 @@
-```html
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F5C2E7&height=160&section=header&text=hey%2C%20i%27m%20aym!&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 
@@ -73,5 +72,3 @@ currently: learning & building random stuff
 *made with ♡ by aym*
 
 </div>
-```
-
