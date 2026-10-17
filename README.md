@@ -1,4 +1,5 @@
- <div align="center">
+```html
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F5C2E7&height=160&section=header&text=hey%2C%20i%27m%20aym!&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 
@@ -10,7 +11,11 @@
 
 *₊˚⊹♡ making things on the internet ♡⊹˚₊*
 
-[![GitHub](https://img.shields.io/badge/github-bluenotthecolor-e8a7d1?style=flat-square&logo=github&logoColor=white)](https://github.com/bluenotthecolor)
+[![GitHub](https://img.shields.io/badge/github-pinkyussp-e8a7d1?style=flat-square&logo=github&logoColor=white)](https://github.com/pinkyussp)
+
+<br/>
+
+<sub>last refreshed: <!-- LAST_UPDATED -->waiting for first run<!-- LAST_UPDATED --></sub>
 
 </div>
 
@@ -51,11 +56,11 @@ currently: learning & building random stuff
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bluenotthecolor&show_icons=true&hide_border=true&title_color=e8a7d1&icon_color=e8a7d1&text_color=888888&bg_color=ffffff" height="150" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=pinkyussp&show_icons=true&hide_border=true&title_color=e8a7d1&icon_color=e8a7d1&text_color=888888&bg_color=ffffff" height="150" alt="GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluenotthecolor&layout=compact&hide_border=true&title_color=e8a7d1&text_color=888888&bg_color=ffffff" height="150" alt="top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkyussp&layout=compact&hide_border=true&title_color=e8a7d1&text_color=888888&bg_color=ffffff" height="150" alt="top languages" />
 
-<img src="https://streak-stats.demolab.com?user=bluenotthecolor&hide_border=true&ring=e8a7d1&fire=f5c2e7&currStreakLabel=e8a7d1&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=aaaaaa&background=ffffff" width="90%" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=pinkyussp&hide_border=true&ring=e8a7d1&fire=f5c2e7&currStreakLabel=e8a7d1&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=aaaaaa&background=ffffff" width="90%" alt="GitHub streak" />
 
 </div>
 
@@ -68,3 +73,5 @@ currently: learning & building random stuff
 *made with ♡ by aym*
 
 </div>
+```
+
